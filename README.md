@@ -30,7 +30,7 @@ Open the index.html file in your preferred browser to view the portfolio.
 
 ### Customization
 - Profile Image: Replace the 1735109700448.jpg image with your own profile image (located in the images folder).
-- Projects Section: Add or update your project details by modifying the content inside the <section id="services"> element.
+- Projects Section: Add or update your project details by modifying the content inside the <section id="services"> element.ed
 - Social Media Links: Update the social media URLs in the <div class="social-media"> and footer section to point to your own profiles.
 - Resume: Change the href attribute in the download CV button to point to your resume PDF file.
 
